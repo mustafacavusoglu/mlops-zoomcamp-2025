@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mustafacavusoglu/workspace/mlops-course/homeworks/week2/mlruns/0/aae86e2107bc402ab0f841e70a7d9706/artifacts
+end_time: 1748009761109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aae86e2107bc402ab0f841e70a7d9706
+run_name: enchanting-pug-31
+run_uuid: aae86e2107bc402ab0f841e70a7d9706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748009749671
+status: 3
+tags: []
+user_id: mustafacavusoglu

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/mustafacavusoglu/workspace/mlops-course/homeworks/week2/mlruns/0/d10f8c57cae74381a78d3c9183b6453f/artifacts
+deleted_time: 1748009778906
+end_time: 1748009688136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d10f8c57cae74381a78d3c9183b6453f
+run_name: rogue-fish-422
+run_uuid: d10f8c57cae74381a78d3c9183b6453f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748009677282
+status: 3
+tags: []
+user_id: mustafacavusoglu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mustafacavusoglu/workspace/mlops-course/homeworks/week2/mlruns/0/8bfc1f0d0d4749dca03b5cdd76b5c6e7/artifacts
+end_time: 1748033990897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bfc1f0d0d4749dca03b5cdd76b5c6e7
+run_name: likeable-donkey-802
+run_uuid: 8bfc1f0d0d4749dca03b5cdd76b5c6e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748033973227
+status: 3
+tags: []
+user_id: mustafacavusoglu
