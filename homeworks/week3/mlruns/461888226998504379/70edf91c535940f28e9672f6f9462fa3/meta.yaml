@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/mustafacavusoglu/workspace/mlops-course/mlruns/461888226998504379/70edf91c535940f28e9672f6f9462fa3/artifacts
+deleted_time: 1748516882637
+end_time: 1748510634827
+entry_point_name: ''
+experiment_id: '461888226998504379'
+lifecycle_stage: deleted
+run_id: 70edf91c535940f28e9672f6f9462fa3
+run_name: gentle-loon-756
+run_uuid: 70edf91c535940f28e9672f6f9462fa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748510631992
+status: 4
+tags: []
+user_id: mustafacavusoglu

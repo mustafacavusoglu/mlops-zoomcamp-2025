@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/mustafacavusoglu/workspace/mlops-course/mlruns/461888226998504379/785d45dcc77d4310a624dd0803852be0/artifacts
+deleted_time: 1748510598086
+end_time: 1748510446440
+entry_point_name: ''
+experiment_id: '461888226998504379'
+lifecycle_stage: deleted
+run_id: 785d45dcc77d4310a624dd0803852be0
+run_name: enthused-sloth-901
+run_uuid: 785d45dcc77d4310a624dd0803852be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748510443543
+status: 3
+tags: []
+user_id: mustafacavusoglu

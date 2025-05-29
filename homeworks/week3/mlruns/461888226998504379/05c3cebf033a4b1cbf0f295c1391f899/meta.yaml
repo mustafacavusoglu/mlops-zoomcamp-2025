@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/mustafacavusoglu/workspace/mlops-course/mlruns/461888226998504379/05c3cebf033a4b1cbf0f295c1391f899/artifacts
+deleted_time: 1748510598086
+end_time: 1748510162932
+entry_point_name: ''
+experiment_id: '461888226998504379'
+lifecycle_stage: deleted
+run_id: 05c3cebf033a4b1cbf0f295c1391f899
+run_name: dashing-robin-472
+run_uuid: 05c3cebf033a4b1cbf0f295c1391f899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748510159878
+status: 3
+tags: []
+user_id: mustafacavusoglu

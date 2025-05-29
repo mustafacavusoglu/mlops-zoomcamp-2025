@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748519648762
+current_stage: None
+description: null
+last_updated_timestamp: 1748519648762
+name: nyc-taxi-duration-model
+run_id: b5971de4158d43dd96abcfa33477ba12
+run_link: null
+source: file:///Users/mustafacavusoglu/workspace/mlops-course/mlruns/461888226998504379/b5971de4158d43dd96abcfa33477ba12/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/mustafacavusoglu/workspace/mlops-course/mlruns/461888226998504379/b5971de4158d43dd96abcfa33477ba12/artifacts/model
+user_id: null
+version: 2

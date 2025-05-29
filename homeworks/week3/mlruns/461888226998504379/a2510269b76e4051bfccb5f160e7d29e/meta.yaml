@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/mustafacavusoglu/workspace/mlops-course/mlruns/461888226998504379/a2510269b76e4051bfccb5f160e7d29e/artifacts
+deleted_time: 1748510598086
+end_time: 1748510061689
+entry_point_name: ''
+experiment_id: '461888226998504379'
+lifecycle_stage: deleted
+run_id: a2510269b76e4051bfccb5f160e7d29e
+run_name: receptive-kit-255
+run_uuid: a2510269b76e4051bfccb5f160e7d29e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748510056362
+status: 3
+tags: []
+user_id: mustafacavusoglu
